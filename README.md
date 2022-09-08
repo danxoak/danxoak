@@ -5,3 +5,5 @@ I make excessive use of emojis 😂, write some code from time to time 💻, [on
 You can follow me on [Twitter](https://twitter.com/CoderDan) 🐤.
 
 [![CoderDanUK's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderDanUK&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![CoderDanUK's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderDanUK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)****
